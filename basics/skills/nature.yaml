@@ -1,5 +1,5 @@
 Skill:
-  Name: Nature
+  Name: Priroda
   Id: 8
   Thumbnails:
     - sky1
@@ -7,113 +7,65 @@ Skill:
     - sun3
   
 New words:
-  - Word: cielo
+  - Word: nebo
     Translation: sky
     Images:
       - sky1
       - sky2
       - sky3
 
-  - Word: río
+  - Word: rěka
     Translation: river
     Images:
       - river1
       - river2
       - river3
 
-  - Word: sol
+  - Word: solnce
     Translation: sun
     Images:
       - sun1
       - sun2
       - sun3
 
-  - Word: mar
+  - Word: morje
     Translation: sea
     Images:
       - sea1
       - sea2
       - sea3
 
-  - Word: montaña
+  - Word: gora
     Translation: mountain
     Images:
       - mountain1
       - mountain2
       - mountain3
 
-  - Word: lago
+  - Word: jezero
     Translation: lake
     Images:
       - lake1
       - lake2
       - lake3
 
-  - Word: playa
+  - Word: plaž
     Translation: beach
     Images:
       - beach1
       - beach2
       - beach3
 
-  - Word: el cielo
-    Translation: the sky
-    Images:
-      - sky1
-      - sky2
-      - sky3
-
-  - Word: un río
-    Translation: a river
-    Images:
-      - river1
-      - river2
-      - river3
-
-  - Word: el sol
-    Translation: the sun
-    Images:
-      - sun1
-      - sun2
-      - sun3
-
-  - Word: el mar
-    Translation: the sea
-    Images:
-      - sea1
-      - sea2
-      - sea3
-
-  - Word: la montaña
-    Translation: the mountain
-    Images:
-      - mountain1
-      - mountain2
-      - mountain3
-
-  - Word: un lago
-    Translation: a lake
-    Images:
-      - lake1
-      - lake2
-      - lake3
-
-  - Word: la playa
-    Translation: the beach
-    Images:
-      - beach1
-      - beach2
-      - beach3
 
 Phrases:
-  - Phrase: ¡Buen viaje!
+  - Phrase: Dobrogo putovanja!
     Translation: Have a good trip!
     Also accepted:
       - Have a nice trip!
 
-  - Phrase: ¡Vamos a la playa!
+  - Phrase: Nehaj idem plaž!
     Translation: Let's go to the beach!
 
-  - Phrase: ¿Mar o montaña?
+  - Phrase: Morje ili gora?
     Translation: Sea or mountain?
 

@@ -1,51 +1,49 @@
 Skill:
-  Name: Verbs
+  Name: glagoli
   Id: 9
 
 New words: []
   
 Phrases:
-  - Phrase: Yo soy un gato
-    Alternative versions:
-      - Soy un gato
-    Translation: I am a cat
-    Also accepted:
-      - I'm a cat
+  - Phrase: Kot jest črny
+    Translation: The cat is black
 
-  - Phrase: Tú eres grande
+  - Phrase: Ty jesi veliky
     Alternative versions:
-      - Eres grande
+      - Ty veliky
     Translation: You are big
     Also accepted:
       - You're big
 
-  - Phrase: El caballo es pequeño
+  - Phrase: Konj jest maly
+      Alternative versions:
+      - Konj maly
     Translation: The horse is small
 
-  - Phrase: Yo como pan
-    Translation: I eat bread
+  - Phrase: Ja jem pierogi
+    Translation: I eat pierogi
 
-  - Phrase: Tú comes pasta
+  - Phrase: Vy jete pastu
     Translation: You eat pasta
 
-  - Phrase: Ella come pizza
+  - Phrase: Ona je pizzu
     Translation: She eats pizza
 
-  - Phrase: Él come pan
+  - Phrase: On je hlěb
     Translation: He eats bread
 
   - Phrase: Yo bebo cerveza
     Translation: I drink beer
 
-  - Phrase: Tú bebes leche
+  - Phrase: Ty piješ mlěko
     Alternative versions:
-      - Bebes leche
+      - Piješ mlěko
     Translation: You drink milk
 
-  - Phrase: Maria bebe cerveza
-    Translation: Maria drinks beer
+  - Phrase: Marija pije kvas
+    Translation: Maria drinks kvas
 
-  - Phrase: El caballo bebe agua
+  - Phrase: Konj pije vodu
     Translation: The horse drinks water
 
 

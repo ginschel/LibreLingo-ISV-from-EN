@@ -1,114 +1,114 @@
 Skill:
-  Name: Plurals
+  Name: množstveno čislo
   Id: 11
 
 New words:
-  - Word: gatos
+  - Word: koti
     Translation: cats
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: playas
+  - Word: plaži
     Translation: beaches
     Images:
       - beach1
       - beach2
       - beach3
 
-  - Word: patos
+  - Word: katky
     Translation: ducks
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: camisas
+  - Word: košulje
     Translation: shirts
     Images:
       - shirt1
       - shirt2
       - shirt3
 
-  - Word: estudiantes
+  - Word: studenti
     Translation: students
     Images:
       - student1
       - student2
       - student3
 
-  - Word: fresas
+  - Word: jagody
     Translation: strawberries
     Images:
       - strawberry1
       - strawberry2
       - strawberry3
 
-  - Word: gafas
+  - Word: naočila/okuljary
     Translation: glasses
     Images:
       - glasses1
       - glasses2
       - glasses3
 
-  - Word: médicos
+  - Word: doktori
     Translation: doctors
     Images:
       - doctor1
       - doctor2
       - doctor3
 
-  - Word: los gatos
+  - Word: te koti
     Translation: the cats
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: las playas
+  - Word: te plaži
     Translation: the beaches
     Images:
       - beach1
       - beach2
       - beach3
 
-  - Word: los patos
+  - Word: te katky
     Translation: the ducks
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: las camisas
+  - Word: te košulje
     Translation: the shirts
     Images:
       - shirt1
       - shirt2
       - shirt3
 
-  - Word: los estudiantes
+  - Word: ti studenti
     Translation: the students
     Images:
       - student1
       - student2
       - student3
 
-  - Word: las fresas
+  - Word: te jagody
     Translation: the strawberries
     Images:
       - strawberry1
       - strawberry2
       - strawberry3
 
-  - Word: las gafas
+  - Word: te naočila/te okuljary 
     Translation: the glasses
     Images:
       - glasses1
       - glasses2
       - glasses3
 
-  - Word: los médicos
+  - Word: ti doktori
     Translation: the doctors
     Images:
       - doctor1
@@ -116,24 +116,24 @@ New words:
       - doctor3
 
 Phrases:
-  - Phrase: Gatos verdes
+  - Phrase: zelene koti
     Translation: green cats
 
-  - Phrase: Playas bonitas
+  - Phrase: krasive plaži
     Translation: Beautiful beaches
     Also accepted:
       - Pretty beaches
 
-  - Phrase: Las camisas son rojas
+  - Phrase: Te košulje sut črvene
     Translation: The shirts are red
 
-  - Phrase: Los gatos son estudiantes
+  - Phrase: Te koti sut studentami
     Translation: The cats are students
 
-  - Phrase: Las gafas son grandes
+  - Phrase: Te okuljary sut velike
     Translation: The glasses are big
 
-  - Phrase: Los patos son médicos
+  - Phrase: Te katky sut doktorami
     Translation: The ducks are doctors
 
 Mini-dictionary:

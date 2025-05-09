@@ -1,34 +1,21 @@
 # Time
+sekunda = second
+minuta = minute
+časina = hour
+denj = day
+tydenj = week
+měsec = month
+rok/god (jug) = year
 
-One o'clock -> singular -> Es la una  
-Other hours (from two to twelve) -> plurals
+One o'clock -> singular -> časina prva  
+six o'clock -> časina šesta
+
+i.t.d (and so on...)
 
 example:
 
-_¿Qué hora es?_  
+_Koliko vrěmene tutčas?_  
 What time is it?
 
-_Es la una (y cinco/diez)_  
-It is one (5 minutes after | 10 minutes after...) o'clock
-
-_Son las dos._
-
-_Son las tres._
-
-_Es la una y cuarto._
-
-_son las dos y cuarto._
-
-_Es la una y media._
-
-_Son las diez y media._
-
-_Son las siete menos cuarto._
-
-_Son las nueve menos cuarto._
-
-_Son las ocho de la mañana._
-
-_Es la una de la tarde._
-
-_Son las nueve de la noche._
+_Telling time with hour and minutes_  
+It's 8:45 -> Jest časina osma četyrideset pet

@@ -1,68 +1,26 @@
 Skill:
-  Name: Professions
+  Name: profesije
   Id: 12
 
 New words:
-  - Word: médico
-    Synonyms:
-      - médica
+  - Word: doktor
     Translation: doctor
     Images:
       - doctor1
       - doctor2
       - doctor3
 
-  - Word: bombera
-    Synonyms:
-      - bombero
+  - Word: gasitelj
     Translation: firefighter
     Images:
       - firefighter1
       - firefighter2
       - firefighter3
 
-  - Word: bombero
+  - Word: seljan
     Synonyms:
-      - bombera
-    Translation: firefighter
-    Images:
-      - firefighter1
-      - firefighter2
-      - firefighter3
-
-
-  - Word: granjera
-    Synonyms:
-      - granjero
+      - fermer
     Translation: farmer
-    Images:
-      - farmer1
-      - farmer2
-      - farmer3
-
-
-  - Word: granjero
-    Synonyms:
-      - granjera
-    Translation: farmer
-    Images:
-      - farmer1
-      - farmer2
-      - farmer3
-  
-  - Word: una médica
-    Synonyms:
-      - un médico
-    Translation: a doctor
-    Images:
-      - doctor1
-      - doctor2
-      - doctor3
-
-  - Word: granjeras
-    Synonyms:
-      - granjeros
-    Translation: farmers
     Images:
       - farmer1
       - farmer2
@@ -70,35 +28,26 @@ New words:
 
 
 Phrases:
-  - Phrase: La médica bebe agua
-    Alternative versions:
-      - La médica bebe agua
+  - Phrase: Doktor pije vodu
     Translation: The doctor drinks water
 
-  - Phrase: El camarero trabaja
-    Alternative versions:
-      - La camarera trabaja
+  - Phrase: Kelner rabota
     Translation: The waiter works
 
-  - Phrase: Las bomberas llegan
-    Alternative versions:
-      - Los bomberos llegan
+  - Phrase: Gasitelji došli
     Translation: The firefighters arrive
 
-  - Phrase: El granjero ve los animales
+  - Phrase: Seljan vidi životiny
     Alternative versions:
-      - La  granjera ve los animales
+      - Fermer vidi životiny
     Translation: The farmer sees the animals
 
-  - Phrase: Los enfermeros viven aquí
-    Alternative versions:
-      - Las enfermeras viven aquí
+  - Phrase: Medsestry živut tu 
     Translation: The nurses live here
 
-  - Phrase: El cantante canta bien
+  - Phrase: Pěvec pěva dobro
     Alternative versions:
-      - El cantor canta bien
-      - La cantora canta bien
+      - Toj pěvec pěva dobro
     Translation: The singer sings well
 
 Mini-dictionary:
