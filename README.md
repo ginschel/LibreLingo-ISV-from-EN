@@ -1,3 +1,3 @@
-# LibreLingo-ES-from-EN
+# LibreLingo-ISV-from-EN
 
-Spanish course for English speakers
+Interslavic course for English speakers
