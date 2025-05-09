@@ -2,5 +2,5 @@
 
 Welcome to LibreLingo, the free and open language learning platform!
 
-In this introductory skill you'll learn the names of common animals in Spanish,
+In this introductory skill you'll learn the names of common animals in Interslavic,
 as well as a couple simple phrases.
