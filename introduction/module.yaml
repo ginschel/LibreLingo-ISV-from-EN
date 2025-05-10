@@ -1,0 +1,10 @@
+Module:
+  Name: "Introduction"
+
+Skills:
+  - greetings.yaml
+  - describe-yourself.yaml
+  - phrases.yaml
+  - adjectives.yaml
+  - preferences.yaml
+  - pronouns.yaml
